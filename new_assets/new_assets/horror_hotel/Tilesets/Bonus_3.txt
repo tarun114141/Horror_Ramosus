@@ -1,0 +1,83 @@
+Cage 1 
+Cage 2 
+Cage 3 
+Crate 1 
+Crate 2 
+Crate 3
+Wood barricade 1
+Wood barricade 2
+Hole
+Elevator
+Monster Door
+Furniture 1 
+Window 1
+Window 3
+Window 4 
+Window 
+Tabel
+Elecrticity container
+Elevator Dark
+Elevator with monster 
+Wood trash 
+Broken furniture
+Lights
+Small neon
+Stop sign 
+Sink
+Trash can 
+Rotten pizza
+Broken Mirror 
+Plant 1 
+Small frame 
+Plant 3 
+Lirary 
+Rug
+Trash bin 
+Wall furniture 
+Lustre
+Wall furniture 2 
+Kitchen sign
+Canteen sign
+Diagonal furniture 
+Blue Pipe
+Dead monster
+Dead monster 2
+Diagonal frame 
+Dirty desk 
+Lab desk 
+Lab tabel 
+Lab tabel 2
+Lab furniture 1 
+Lab furniture 2 
+Lab furniture 3
+Lab furniture 4 
+Dirty couch 
+Wooden barricade 
+Biohazard container 1 
+Biohazard container 2 
+Biohazard container 3 
+Alien plant 1 
+Alien plant 2 
+Church window 
+Wall plant 1
+Long window
+Dirty couch 2 
+Dirty singel couch 1 
+Control room sign 
+Small sign 
+Flower 1 
+Blood stain 1 
+Blood stain 2
+Long window 2 
+Dirty couch 3 
+Singel dirty couch 2 
+Baricaded door 
+Door frame 1 
+Door frame 2 
+Door frame 4 
+Door frame 5 
+Light
+Dirty couch 3
+Singel dirty couch 3 
+Caution sign 1
+Caution sign 2  

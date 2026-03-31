@@ -1,0 +1,49 @@
+Diffrent position yellow couch 
+Yellow long couch up
+Yellow couch down
+Yellow long couch down
+Yellow long couch right
+Yellow long couch left 
+Yellow couch right
+Yellow couch Left
+
+Pink long couch up
+Pink couch down
+Pink long couch down
+Pink long couch right
+Pink long couch left 
+Pink couch right
+Pink couch Left
+
+Purpel long couch up
+Purpel couch down
+Purpel long couch down
+Purpel long couch right
+Purpel long couch left 
+Purpel couch right
+Purpel couch Left
+
+Blue long couch up
+Blue couch down
+Blue long couch down
+Blue long couch right
+Blue long couch left 
+Blue couch right
+Blue couch Left
+
+Green long couch up
+Green couch down
+Green long couch down
+Green long couch right
+Green long couch left 
+Green couch right
+Green couch Left
+
+Grey long couch up
+Grey couch down
+Grey long couch down
+Grey long couch right
+Grey long couch left 
+Grey couch right
+Grey couch Left
+

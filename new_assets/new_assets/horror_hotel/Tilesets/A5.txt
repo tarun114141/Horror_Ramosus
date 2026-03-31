@@ -1,0 +1,40 @@
+Grass floor 1 
+Grass floor 2 
+Grass floor 3 
+Grass floor 4
+Stone floor 1 
+Stone floor 2
+Stone floor 3
+Stone floor 4
+Stone floor 5
+Stone floor 6
+Stone floor 7
+Wood half wall
+Stone half wall 
+Paving slab tile 1  
+Paving slab tile 2
+Paving slab tile 3
+Paving slab tile 4
+Paving slab tile 5
+Paving slab tile 6
+Paving slab tile 7
+Horizontal blue wood floor
+Horizontal red wood floor
+Wood floor 1 
+Wood floor 2
+Damaged wood floor 
+Dark desaturated wood floor 
+Verical wood floor 1
+Verical wood floor 2
+Verical wood floor 3
+Yellow wood floor 
+Wood floor 4 
+Damaged wood floor 2 
+Desaturated wood floor 
+Verical wood floor 4
+Verical wood floor 5
+Verical wood floor 6
+Wood floor with springs 1 
+Red wood floor 
+Dark wood floor 
+ 
