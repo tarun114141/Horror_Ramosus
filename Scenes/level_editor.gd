@@ -10,7 +10,7 @@ var current_atlas_coords: Vector2i = Vector2i.ZERO
 var current_source_id: int = 1
 var is_painting: bool = false
 var is_erasing: bool = false
-var _is_saving: bool = fals
+var _is_saving: bool = false
 
 func _ready() -> void:
 	_populate_tile_palette()
