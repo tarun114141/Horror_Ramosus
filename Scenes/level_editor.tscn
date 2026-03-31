@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://eylbwifqcc6y" path="res://new_assets/new_assets/horror_hotel/Tilesets/A5_Hotel.png" id="1_s1b0e"]
 [ext_resource type="Script" uid="uid://drbmr1ngo824i" path="res://Scenes/camera_2d.gd" id="2_n1xa8"]
-[ext_resource type="Script" uid="uid://bleveled1tore" path="res://Scenes/level_editor.gd" id="3_editor"]
+[ext_resource type="Script" uid="uid://b7qca7tjbjt8v" path="res://Scenes/level_editor.gd" id="3_editor"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rot6e"]
 texture = ExtResource("1_s1b0e")
@@ -897,6 +897,7 @@ script = ExtResource("2_n1xa8")
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1103372405]
 
 [node name="PanelContainer" type="PanelContainer" parent="CanvasLayer" unique_id=601234501]
+anchors_preset = 11
 anchor_left = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
@@ -904,12 +905,10 @@ offset_left = -180.0
 grow_horizontal = 0
 
 [node name="MarginContainer" type="MarginContainer" parent="CanvasLayer/PanelContainer" unique_id=601234502]
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
+layout_mode = 2
 theme_override_constants/margin_left = 4
-theme_override_constants/margin_right = 4
 theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 4
 theme_override_constants/margin_bottom = 4
 
 [node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/PanelContainer/MarginContainer" unique_id=601234505]
