@@ -1,0 +1,17 @@
+Grass 1 
+Grass 2 
+Flowers 
+Stone tiles with contoure 
+Grass tilles with conture 
+Grass tilles with wooden conture 
+Stone tiles with wooden contoure
+Tabel wood autotile
+Floor 1 with oclusion 
+Floor 2 with oclusion 
+Horizontal wood tile with oclusion 
+Vertical  wood tile with oclusion 
+Purpel tabel autotile 
+Floor 3 with oclusion
+Rug autotile
+Wooden tabel autotile 
+Wooden tabel autotile 2

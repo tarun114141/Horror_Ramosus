@@ -1,0 +1,42 @@
+Rug 1 
+Rug 2 
+Horizontal white bathtub filled with water(Right direction)
+Horizontal White empty bathtub (Right direction)
+Horizontal White empty bathtub (Left direction)
+Horizontal white bathtub filled with water(Left direction)
+Vertical blue bathtub filled with water
+Vertical blue empty bathtub 
+Vertical white bathtub  filled with water
+Vertical white empty  bathtub  
+Horizontal green bathtub filled with water(Right direction)
+Horizontal blue empty bathtub (Left direction)
+Horizontal blue bathtub filled with water(Left direction)
+Blue empty toilet
+white empty toilet
+Vertical green bathtub  filled with water
+Vertical green empty bathtub 
+Horizontal blue bathtub filled with water(Right direction)
+Horizontal blue empty bathtub (Right direction)
+Horizontal green empty bathtub (Left direction)
+Horizontal green bathtub filled with water(Left direction)
+Green empty toilet
+White toillet filled with water
+Broken mirror
+Mirror with neo 
+Neo off
+Neo on 
+Mirror
+washbasin 
+green washbasin
+blue washbasin
+White washbasin
+blue washbasin 2 
+green washbasin 2
+Toillet paper left 
+Toillet paper Right
+Furnituer 1 
+Water hole
+Wall hole
+Wall holes 2 
+
+

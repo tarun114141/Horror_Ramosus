@@ -1,0 +1,62 @@
+Green bed 
+Green doubel bed
+Wall crack 
+Wall cracks 
+Wall hole 
+Blue bed 
+Red bed 
+Blue doubel bed 
+Red doubel bed 
+Broken mirror 
+Mirror 
+Room day window 
+Room Sun window
+Room Dark window 
+Room Night window 
+Left green bed 
+Left red bed 
+Left blue bed 
+lampe 1 
+Lampe 2 
+Right green bed 
+Right red bed 
+Right blue bed 
+pillow 
+Pants 
+Shirt
+School unifrom 
+Hat
+Dress
+Changing Room Divider 1 
+Wall coat hanger
+Left green doubel bed 
+Left red doubel bed 
+Left blue doubel bed 
+Small chair
+Small tabel
+Coat hanger
+Emptry coat hanger
+Right green doubel bed 
+Right red doubel bed 
+Right blue doubel bed 
+Night tabel 
+Night tabel 2
+Frame sun set
+Frame night mountains 
+Frame day and sun 
+Frame pink flower
+Frame dark monster 
+Frame dark monster 2 
+Frame lady 
+Frame howl
+Frame mouse and chees 
+Frame mountains 2 
+Frame pinguin 
+Frame old green 
+Frame arctic 
+Room number 62
+Room number 63
+Room number 64
+Room number 65
+
+
