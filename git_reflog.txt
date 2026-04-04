@@ -1,0 +1,5 @@
+756f92c HEAD@{0}: reset: moving to 756f92c
+46cdea3 HEAD@{1}: commit (merge): level hikalana ha
+beb96bd HEAD@{2}: commit: level hikalana ha
+40c0ccb HEAD@{3}: reset: moving to HEAD~1
+65bd9c4 HEAD@{4}: reset: moving to HEAD
