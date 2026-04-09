@@ -1715,8 +1715,6 @@ position = Vector2(6, 21)
 tile_map_data = PackedByteArray("AAASAAgAAgAIAAAAAAASAAkAAgAIAAEAAAASAAoAAgAIAAIAAAASAAsAAgAIAAMAAAATAAgAAgAJAAAAAAATAAkAAgAJAAEAAAATAAoAAgAJAAIAAAATAAsAAgAJAAMAAAA=")
 tile_set = SubResource("TileSet_4cmy3")
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="TileMap/on_walls/Door" unique_id=899764842]
-
 [node name="PointLight2D" type="PointLight2D" parent="TileMap/on_walls/Door" unique_id=169791283]
 position = Vector2(458.5, 245)
 scale = Vector2(0.67187494, 1.34375)
