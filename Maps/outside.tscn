@@ -4996,7 +4996,7 @@ texture_region_size = Vector2i(24, 24)
 0:0/0 = 0
 
 [sub_resource type="TileSet" id="TileSet_nnsfa"]
-tile_size = Vector2i(24, 24)
+tile_size = Vector2i(143, 143)
 sources/2 = SubResource("TileSetAtlasSource_k88pj")
 
 [node name="Outside" type="Node2D" unique_id=677140424]
@@ -5057,5 +5057,6 @@ energy = 0.53
 texture = SubResource("GradientTexture2D_ixsig")
 
 [node name="Fountain" type="TileMapLayer" parent="decore" unique_id=1421509453]
-tile_map_data = PackedByteArray("AAAWAB0AAgAAAAAAAAA=")
+position = Vector2(52, 76)
+tile_map_data = PackedByteArray("AAAXAB0AAgAAAAAAAAADAAQAAgAAAAAAAAA=")
 tile_set = SubResource("TileSet_nnsfa")
