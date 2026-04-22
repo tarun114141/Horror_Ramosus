@@ -25,6 +25,7 @@ fill_to = Vector2(0.047826085, 0.034782607)
 position = Vector2(-1, -1)
 
 [node name="TileMap" type="TileMap" parent="." unique_id=718248791]
+position = Vector2(458, 414)
 format = 2
 
 [node name="Wall" type="TileMapLayer" parent="TileMap" unique_id=162384656]
