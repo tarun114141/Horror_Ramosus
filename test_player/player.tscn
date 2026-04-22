@@ -111,6 +111,8 @@ animations = [{
 }]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_onrkg"]
+radius = 7.0
+height = 14.0
 
 [node name="Player" type="CharacterBody2D" unique_id=1427217802]
 script = ExtResource("1_onrkg")
@@ -123,4 +125,5 @@ animation = &"up"
 zoom = Vector2(2, 2)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=65075154]
+position = Vector2(-1, 9)
 shape = SubResource("CapsuleShape2D_onrkg")

@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Level_editor_0.2"
+run/main_scene="uid://c2h6e0wp2pum1"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
