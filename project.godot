@@ -14,6 +14,10 @@ config/name="Level_editor_0.2"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
+[display]
+
+window/size/mode=3
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
