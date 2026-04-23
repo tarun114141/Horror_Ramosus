@@ -8,6 +8,7 @@
 [ext_resource type="TileSet" uid="uid://vn1wbp517l" path="res://Ready_TileMap/walls.tres" id="3_qdtuq"]
 [ext_resource type="TileSet" uid="uid://cg6jucexcu6v4" path="res://Ready_TileMap/courches.tres" id="5_4sk4m"]
 [ext_resource type="Texture2D" uid="uid://chjlc3w784m0o" path="res://Assets/horror_hotel/Tilesets/Bonus_Couch.png" id="8_shmpj"]
+[ext_resource type="PackedScene" uid="uid://ckudr8chj1kgo" path="res://test_player/player.tscn" id="10_72ylm"]
 [ext_resource type="Texture2D" uid="uid://ce8lyxgw2a7by" path="res://Assets/horror_hotel/Tilesets/Hotel_Outside.png" id="10_nwej2"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_qdtuq"]
@@ -49026,6 +49027,9 @@ tile_set = SubResource("TileSet_baobd")
 use_parent_material = true
 tile_map_data = PackedByteArray("AAD2//7/BQAqAAAAAAD2////BQAqAAEAAAD2/wAABQAqAAIAAAD2/wEABQAqAAMAAAD2/wIABQAqAAQAAAD2/wMABQAqAAUAAAD3//7/BQArAAAAAAD3////BQArAAEAAAD3/wAABQArAAIAAAD3/wEABQArAAMAAAD3/wIABQArAAQAAAD3/wMABQArAAUAAAD4//7/BQAsAAAAAAD4////BQAsAAEAAAD4/wAABQAsAAIAAAD4/wEABQAsAAMAAAD4/wIABQAsAAQAAAD4/wMABQAsAAUAAAA=")
 tile_set = SubResource("TileSet_baobd")
+
+[node name="Player" parent="TileMap" unique_id=1427217802 instance=ExtResource("10_72ylm")]
+position = Vector2(468, 252)
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=291354438]
 position = Vector2(877, 626)
