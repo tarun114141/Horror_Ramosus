@@ -12,6 +12,21 @@
 [ext_resource type="PackedScene" uid="uid://ckudr8chj1kgo" path="res://test_player/player.tscn" id="10_k88pj"]
 [ext_resource type="PackedScene" uid="uid://ckw3swh7qt11" path="res://Helper_scenes/gate.tscn" id="11_jc33v"]
 
+[sub_resource type="GDScript" id="GDScript_jc33v"]
+script/source = "extends Node2D
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready() -> void:
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta: float) -> void:
+	
+	pass
+"
+
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_wu2xa"]
 texture = ExtResource("2_0bd06")
 texture_region_size = Vector2i(24, 24)
@@ -4571,6 +4586,7 @@ height = 19.444443
 
 [node name="Outside" type="Node2D" unique_id=677140424]
 y_sort_enabled = true
+script = SubResource("GDScript_jc33v")
 
 [node name="Floor" type="TileMapLayer" parent="." unique_id=79237543]
 z_index = -1
