@@ -3,6 +3,12 @@
 [ext_resource type="Texture2D" uid="uid://btbdmppolujar" path="res://Assets/horror_hotel/Chars/Chars/$!Gate2.png" id="1_0j85s"]
 [ext_resource type="Script" uid="uid://culf5qli7sv23" path="res://Maps_script/gate.gd" id="1_4pl2g"]
 [ext_resource type="PackedScene" uid="uid://bxyeywqd0j4vm" path="res://Maps/reception.tscn" id="2_bsee7"]
+[ext_resource type="Script" uid="uid://cemubg850hah" path="res://Resources/door_data.gd" id="3_k7e3c"]
+
+[sub_resource type="Resource" id="Resource_hinx8"]
+script = ExtResource("3_k7e3c")
+next_scene = ExtResource("2_bsee7")
+metadata/_custom_type_script = "uid://cemubg850hah"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_bsee7"]
 atlas = ExtResource("1_0j85s")
@@ -48,7 +54,7 @@ size = Vector2(103, 20)
 
 [node name="gate" type="StaticBody2D" unique_id=509697922]
 script = ExtResource("1_4pl2g")
-next_scene = ExtResource("2_bsee7")
+data = SubResource("Resource_hinx8")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=597042761]
 sprite_frames = SubResource("SpriteFrames_u2gyq")
